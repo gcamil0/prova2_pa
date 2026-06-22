@@ -7,10 +7,6 @@
 - [x] Documentação de end-points
 - [x] Implementação via microsserviços
 
-## Descrição
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
 ## Project setup
 
 ```bash
