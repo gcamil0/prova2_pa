@@ -2,10 +2,10 @@
 
 ## Requisitos
 
-[] - Método de Autenticação
-[] - Liberação CORS
-[] - Documentação de end-points
-[] - Implementação via microsserviços
+- [x] Método de Autenticação
+- [x] Liberação CORS
+- [x] Documentação de end-points
+- [x] Implementação via microsserviços
 
 ## Descrição
 
